@@ -11,6 +11,7 @@
 #include "Storage.hpp"
 #include "AllocationMiddleware.hpp"
 #include "AllocationPolicy.hpp"
+#include "mediasystem/util/TypeID.hpp"
 
 namespace mediasystem {
     
