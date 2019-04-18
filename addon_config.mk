@@ -4,3 +4,5 @@ meta:
 	ADDON_AUTHOR = Michael Allison
 	ADDON_TAGS = "media" "scene" 
 	ADDON_URL = https://github.com/m1keall1son/ofxMediaSystem
+common:
+	ADDON_INCLUDES_EXCLUDE=src/mediasystem/%
